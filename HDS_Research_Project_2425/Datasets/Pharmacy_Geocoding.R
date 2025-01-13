@@ -69,7 +69,7 @@ process_data <- function(data, api_key) {
 }
 
 # Main execution
-api_key <- "AIzaSyCCCYjsYZ88cliL6s0myoPcUzzmaKuwPoc" 
+api_key <- "API_Key" 
 
 # Read and process the data
 result_df <- read_csv("pharmacy_data_full.csv")

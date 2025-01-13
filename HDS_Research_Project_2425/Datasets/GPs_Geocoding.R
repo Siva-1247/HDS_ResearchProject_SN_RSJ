@@ -66,7 +66,7 @@ process_data <- function(data, api_key) {
 }
 
 
-api_key <- "AIzaSyCCCYjsYZ88cliL6s0myoPcUzzmaKuwPoc"  # Replace with your API key
+api_key <- "API_Key"  # Replace with your API key
 
 result_df <- data
 
