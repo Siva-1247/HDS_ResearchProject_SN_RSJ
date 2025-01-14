@@ -69,7 +69,7 @@ library(jsonlite)
   }
   
   # Main execution
-  api_key <- "API_Key" 
+  api_key <- "API_Key"
   
   # Read and process the data
   result_df <- read_csv("vaccination_centres.csv")
